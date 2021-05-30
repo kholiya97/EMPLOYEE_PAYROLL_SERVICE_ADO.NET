@@ -1,0 +1,10 @@
+C:\Users\kholi\source\repos\EmployeePayrollserviceADO.net\EmployeePayrollserviceADO.net\bin\Debug\EmployeePayrollserviceADO.net.exe.config
+C:\Users\kholi\source\repos\EmployeePayrollserviceADO.net\EmployeePayrollserviceADO.net\bin\Debug\EmployeePayrollserviceADO.net.exe
+C:\Users\kholi\source\repos\EmployeePayrollserviceADO.net\EmployeePayrollserviceADO.net\bin\Debug\EmployeePayrollserviceADO.net.pdb
+C:\Users\kholi\source\repos\EmployeePayrollserviceADO.net\EmployeePayrollserviceADO.net\bin\Debug\System.Data.SqlClient.dll
+C:\Users\kholi\source\repos\EmployeePayrollserviceADO.net\EmployeePayrollserviceADO.net\bin\Debug\System.Data.SqlClient.xml
+C:\Users\kholi\source\repos\EmployeePayrollserviceADO.net\EmployeePayrollserviceADO.net\obj\Debug\EmployeePayrollserviceADO.net.csprojAssemblyReference.cache
+C:\Users\kholi\source\repos\EmployeePayrollserviceADO.net\EmployeePayrollserviceADO.net\obj\Debug\EmployeePayrollserviceADO.net.csproj.CoreCompileInputs.cache
+C:\Users\kholi\source\repos\EmployeePayrollserviceADO.net\EmployeePayrollserviceADO.net\obj\Debug\EmployeePayrollserviceADO.net.csproj.CopyComplete
+C:\Users\kholi\source\repos\EmployeePayrollserviceADO.net\EmployeePayrollserviceADO.net\obj\Debug\EmployeePayrollserviceADO.net.exe
+C:\Users\kholi\source\repos\EmployeePayrollserviceADO.net\EmployeePayrollserviceADO.net\obj\Debug\EmployeePayrollserviceADO.net.pdb
